@@ -78,6 +78,10 @@ html {
     width: 200px;
 }
 
+.music-container div {
+    text-align: center;
+}
+
 .curiosities-container li {
     height: 50px;
 }
