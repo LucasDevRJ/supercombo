@@ -20,16 +20,7 @@ Criei um vídeo apresentando o projeto.
 
 # 📁 Acesso ao projeto
 
-1. Tenha uma IDE;
-2. Baixe esse <a href="https://github.com/LucasDevRJ/supercombo/archive/refs/heads/main.zip">projeto</a> e coloque-o na sua IDE;
-3. Descompacte o projeto no seu computador.
-4. Execute o projeto na sua IDE.
-5. Se divirta
-
-# 🛠️ Abrir e rodar o projeto
-
-1. Após ter feito o download do projeto, coloque ele em sua IDE favorita
-2. Se emocione com essa linda página
+* Acesse o projeto clicando <a href="https://lucasdevrj.github.io/supercombo/">aqui</a>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
