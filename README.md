@@ -9,6 +9,8 @@
 ## Descrição
 Desenvolvi uma página web como forma de homenagem a minha banda favorita, pois já a escutei milhares e milhares de horas do Spotify, com suas músicas tocando o meu coração. Eu tinha que representa-los de alguma forma em minha vida e desenvolver esse site me ajudou a fazer isso. Sou muito grato pela exsitencia dessa banda.
 
+A página possui textos sobre a banda, imagens, listas, redes sociais, compartilhamendo de clipes da banda, discografia, citações de músicas, comentários feitos pelos integrantes, entre outras coisas adicionadas.
+
 ### Apresentação
 Criei um vídeo apresentando o projeto.
 
