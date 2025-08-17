@@ -1,4 +1,4 @@
-# BiblioTech
+# Tributo a Supercombo
 ![Capa LucasDevRJ](https://github.com/user-attachments/assets/b018c4ad-df19-400b-b16a-c88e23059dea)
 
 ![Static Badge](https://img.shields.io/badge/LucasDevRJ%20-%20Desenvolvedor?style=for-the-badge&label=Desenvolvedor)
