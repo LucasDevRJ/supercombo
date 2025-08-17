@@ -11,10 +11,6 @@ html {
     padding: 20px 50px;
 }
 
-.bold {
-    font-weight: bold;
-}
-
 .header {
     text-align: center;
 }
@@ -55,9 +51,31 @@ html {
 
 .curiosities-container {
     padding: 25px 0;
-    margin: 25px 0;
+    margin: 25px;
     border-top: 1px dashed #2e2e2e;
     border-bottom: 1px dashed #2e2e2e;
+}
+
+.discography-container {
+    margin: 50px 0;
+}
+
+.discography-container ul {
+    text-align: center;
+}
+
+.discography-container li {
+    list-style: none;
+    display: inline-block;
+    width: 200px;
+    background-color: #DDD;
+    border: 1px solid #2e2e2e;
+    margin: 10px;
+    text-align: center;
+}
+
+.discography-container img {
+    width: 200px;
 }
 
 .curiosities-container li {
