@@ -90,3 +90,15 @@ html {
     font-weight: bold;
     text-align: center;
 }
+
+.social-media div {
+    text-align: center;
+}
+
+.social-media a {
+    margin: 0 5px;
+}
+
+.social-media img {
+    width: 50px;
+}
