@@ -12,7 +12,7 @@ Desenvolvi uma página web como forma de homenagem a minha banda favorita, pois 
 A página possui textos sobre a banda, imagens, listas, redes sociais, compartilhamendo de clipes da banda, discografia, citações de músicas, comentários feitos pelos integrantes, entre outras coisas adicionadas.
 
 ### Apresentação
-Criei um vídeo apresentando o projeto.
+Criei uma [apresentação](https://www.linkedin.com/posts/lucas-pereira-de-lima-programador_desenvolvimento-programaaexaeto-html-activity-7362939109729779713-qOpP?utm_source=share&utm_medium=member_desktop&rcm=ACoAADjMmpUB-y8JfOCMAryu6CQAVCn5DDjE31Y) sobre o projeto em formato de vídeo.
 
 # :hammer: Funcionalidades do projeto
 
